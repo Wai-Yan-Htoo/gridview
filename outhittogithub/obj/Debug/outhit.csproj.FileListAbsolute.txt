@@ -1,0 +1,11 @@
+G:\mywork\KBTCProgramming\allmylife\c#\class7\month1\week2\outhit\bin\Debug\outhit.exe.config
+G:\mywork\KBTCProgramming\allmylife\c#\class7\month1\week2\outhit\bin\Debug\outhit.exe
+G:\mywork\KBTCProgramming\allmylife\c#\class7\month1\week2\outhit\bin\Debug\outhit.pdb
+G:\mywork\KBTCProgramming\allmylife\c#\class7\month1\week2\outhit\obj\Debug\outhit.csprojAssemblyReference.cache
+G:\mywork\KBTCProgramming\allmylife\c#\class7\month1\week2\outhit\obj\Debug\outhit.Form1.resources
+G:\mywork\KBTCProgramming\allmylife\c#\class7\month1\week2\outhit\obj\Debug\outhit.Properties.Resources.resources
+G:\mywork\KBTCProgramming\allmylife\c#\class7\month1\week2\outhit\obj\Debug\outhit.csproj.GenerateResource.cache
+G:\mywork\KBTCProgramming\allmylife\c#\class7\month1\week2\outhit\obj\Debug\outhit.csproj.CoreCompileInputs.cache
+G:\mywork\KBTCProgramming\allmylife\c#\class7\month1\week2\outhit\obj\Debug\outhit.exe
+G:\mywork\KBTCProgramming\allmylife\c#\class7\month1\week2\outhit\obj\Debug\outhit.pdb
+G:\mywork\KBTCProgramming\allmylife\c#\class7\month1\week2\outhit\obj\Debug\outhit.Form2.resources
